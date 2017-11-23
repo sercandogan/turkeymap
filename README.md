@@ -4,4 +4,4 @@ It's a data visualization project which aims to make a turkey map by using ggplo
 
 ### Example
 
-![Example](https://github.com/sercandogan/turkeymap/blob/master/migration/istanbul2016.png, "Migration to Istanbul in 2016")
+![Example](https://github.com/sercandogan/turkeymap/blob/master/migration/istanbul2016.png "Migration to Istanbul in 2016")
